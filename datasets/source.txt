@@ -1,0 +1,5 @@
+
+Download the Dataset and extract it to *This* directory
+
+Dataset URL:
+https://www.kaggle.com/puneet6060/intel-image-classification
